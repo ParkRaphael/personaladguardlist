@@ -1,0 +1,2 @@
+m.fmkorea.com##.tiwCDGpEOKtJkUB, .nplt
+m.fmkorea.com###bd_189545458_6507175278 > div.rd.rd_nav_style2.clear:nth-child(6) > div.rd_ft:nth-child(2) > div:nth-child(4)
